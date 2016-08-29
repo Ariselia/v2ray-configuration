@@ -14,7 +14,10 @@
           "level": 1,
           "alterId": 31
         }
-      ]
+      ],
+      "detour": {       
+        "to": "dynport"   
+      }
     },
     "streamSettings": {
       "network": "kcp"
