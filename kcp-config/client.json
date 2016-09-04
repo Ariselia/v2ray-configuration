@@ -5,9 +5,6 @@
     "loglevel": "warning"
   },
   "dns": {
-    "hosts": {
-      "domainname": "127.0.0.1"
-    },
     "servers": [
       "8.8.8.8",
       "208.67.222.222",
