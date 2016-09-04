@@ -2,7 +2,7 @@
   "log": {
     "access": "",
     "error": "",
-    "loglevel": "info"
+    "loglevel": "warning"
   },
   "dns": {
     "hosts": {
@@ -18,7 +18,7 @@
   },
   "inbound": {
     "protocol": "socks",
-    "port": 8080,
+    "port": 1080,
     "settings": {
       "auth": "noauth",
       "udp": false,
