@@ -26,7 +26,7 @@
   "inboundDetour": [
     {
       "protocol": "vmess",
-      "port": "10000-11000",
+      "port": "20000-21000",
       "tag": "dynport",
       "settings": {
         "default": {
