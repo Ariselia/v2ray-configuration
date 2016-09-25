@@ -37,10 +37,6 @@
       "rules": [
         {
           "type": "field",
-          "domain": [
-            "baidu.com",
-            "qq.com"
-          ],
           "ip": [
             "0.0.0.0/8",
             "10.0.0.0/8",
